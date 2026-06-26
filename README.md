@@ -109,4 +109,4 @@ Successfully completed the **Altium Education PCB Basic Design Course** and appl
 ---
 
 ### Learning by Doing 🚀
-*"From learning what a PCB is to designing one from scratch using Altium Designer."*
+*"From learning what a PCB is to designing one from scratch using EasyEda Designer."*
